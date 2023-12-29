@@ -1,0 +1,17 @@
+ Ethan Leonard
+ 202435864
+ 9/27/23
+
+ The new bus fare classes are far more efficient then the practice 1 example. 
+ The first thing they address is the fact that in the og file only chole could 
+ get the dicount senior rates and only ted could get the regular rates. The new
+ program solves this by having users use either the adult or senior child classes 
+ when creating a new person for busfares. Additionaly, the program opts to have
+ the child classes override the getFare method from the parent class so that way 
+ you don't have to have a bunch of logic in the main file to determine if the 
+ person is a senior or adult as this is taken care of by the child classes.
+ Lastly, by having a static variable for the busFare in the fare parent class, 
+ one is able to easily change the standard busfare for all of the classes if
+ rates go up or down.
+
+ 

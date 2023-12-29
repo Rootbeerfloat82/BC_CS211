@@ -1,0 +1,14 @@
+/* Ethan Leonard
+ * 202435864
+ * 11/25/23
+ */
+
+ This data structure - priority queue - would be extremely benefical in a hospital. This is because the queue uses an priority
+ based system to decide who is at the top. In a hospital, you could assign every person that comes in with a number based on the 
+ urgency of their condition. For instance, someone with a missing arm might be a 5 while someone with a cold could be a 75. Here,
+ the lower number would represent that the most urgent instance. This way, doctors would know who needs to be taken care of next,
+ and would have the best chances to make everyone ok. Another example could be the maintance for a website. As issues/bugs start 
+ getting reported, they could be assigned a value, with lower numbers representing more urgent issues. For instance, a bug that 
+ completely breaks the website could be a 3 while a bug that messes up the font on one of the pages might be a 63. In doing so, 
+ the programers would know which bugs are the most important for them to target first, and which ones can go on the burner for a 
+ bit while they work on more pressing issues.
